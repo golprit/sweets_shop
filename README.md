@@ -117,7 +117,8 @@ Professional styling with gradients and animations
 
 <img width="1693" height="1639" alt="image" src="https://github.com/user-attachments/assets/9dad378d-b11b-4ff6-afae-5703774af1ca" />
 
-![Uploading image.png…]()
+<img width="1693" height="1639" alt="image" src="https://github.com/user-attachments/assets/1989a589-0ad6-400a-96a4-5d609720c1ca" />
+
 
 
 
